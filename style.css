@@ -1,0 +1,23 @@
+.id {
+    font-family:cursive;
+}
+.jumbotron {
+ padding-left: 0rem ;
+ padding-right: 0rem;   
+ padding-bottom: 0rem;
+ background-color: #faebd7;
+}
+.thead {
+    padding: 3px;
+}
+.register{
+    background: #faebd7 ;
+    padding-top: 1%;
+    padding-bottom: 3%;
+    margin-top: 3%
+}
+.register{
+    margin-bottom: 3%;
+    border:none;
+    border-radius: 3rem;
+}
